@@ -1,0 +1,107 @@
+{
+  "one-year-anniversary": {
+    "title": "Celebrating Two Years of Developers Community Pokhara",
+    "description": "Reflecting on two years of building Pokhara's developer community - the events, the people, and what's next.",
+    "author": "Aaditya Verma",
+    "date": "June 15, 2025",
+    "category": "Community",
+    "tags": ["anniversary", "community", "year-in-review"],
+    "coverImage": "../images/events/event-photo-03.jpg",
+    "content": [
+      { "type": "paragraph", "text": "It has been two years since Developers Community Pokhara held its first meetup at Pokhara Coworking Space in June 2023. From that initial Open Source session with just a handful of attendees to a thriving community of over 200 developers, the journey has been incredible." },
+      { "type": "heading", "text": "How It All Started" },
+      { "type": "paragraph", "text": "Our first event on June 3, 2023 featured Bikram presenting on OwnCloud Infinite Scale and Arthur Neumann speaking about open source democratizing technology. That session at Pokhara Coworking Space proved there was real demand for a developer community in Pokhara." },
+      { "type": "heading", "text": "A Year of Milestones" },
+      { "type": "paragraph", "text": "In 2023, we hosted five events covering topics from hardware engineering with Prashant Bhatta to DevOps fundamentals at BlackTech Office. We explored self-hosted SaaS alternatives with Krishna Dhakal and agile project management with Abishkar Bhattarai at the ICT Lab in Bagar." },
+      { "type": "paragraph", "text": "2024 saw explosive growth. We partnered with the National Innovation Centre in Simpani, Pokhara, which became our regular venue. Topics ranged from cybersecurity with Prasiddha Bhusal to blockchain with Dipak Sharma, from computer vision with Sandesh Pokhrel at NAAMII to career insights from Aatish Sai at Genese Solution. Artur Neumann from JankariTech shared valuable lessons on cultural differences in freelancing." },
+      { "type": "heading", "text": "What's Next?" },
+      { "type": "paragraph", "text": "Looking ahead, we are planning more frequent workshops, special interest groups for topics like AI and DevOps, and a larger annual conference. We are also working on a mentorship program that pairs experienced developers with those just starting their careers." },
+      { "type": "paragraph", "text": "None of this would have been possible without every single person who attended an event, shared a post, or simply believed in the idea. Here is to many more years of building Pokhara's developer community together." }
+    ]
+  },
+  "spring-meetup-2025": {
+    "title": "Spring Meetup 2025 Recap",
+    "description": "Developers gathered at our spring meetup for talks on Pokhara's IT future and lessons from Shenzhen.",
+    "author": "Sita Pokharel",
+    "date": "May 3, 2025",
+    "category": "Events",
+    "tags": ["meetup", "spring", "recap"],
+    "coverImage": "../images/events/event-photo-04.jpg",
+    "content": [
+      { "type": "paragraph", "text": "On May 3, 2025, Developers Community Pokhara hosted the 24th Developers Meet Pokhara. The session featured speaker Hari Bahadur Pahari on 'Pokhara's IT Future: Lessons from Shenzhen' - an eye-opening discussion on Pokhara's tech landscape." },
+      { "type": "heading", "text": "The Talk" },
+      { "type": "paragraph", "text": "Hari Bahadur Pahari drew parallels between Pokhara's emerging tech scene and Shenzhen's transformation from a fishing village to a global technology hub. The session explored practical lessons that Pokhara's developers and entrepreneurs can apply to accelerate local tech growth." },
+      { "type": "heading", "text": "Community Impact" },
+      { "type": "paragraph", "text": "The meetup brought together tech enthusiasts, students, and working professionals for an engaging discussion. Attendees explored how Pokhara can position itself as a tech hub, leveraging its growing pool of talented developers and improving infrastructure." },
+      { "type": "paragraph", "text": "We want to extend a huge thank you to our speaker and everyone who took time out of their weekend to be part of this community. If you missed this one, do not worry - we have more events planned throughout the year." }
+    ]
+  },
+  "react-workshop": {
+    "title": "October Meetups 2025: Prajwol Amatya & Manoj Karki",
+    "description": "Two insightful sessions at Pokhara Nomad Coworking - software development and web scraping & AI agents, powered by Apify.",
+    "author": "Rajan Gurung",
+    "date": "October 11, 2025",
+    "category": "Events",
+    "tags": ["meetup", "web-scraping", "ai-agents", "apify"],
+    "coverImage": "../images/events/posters/2025-10-11-prajwol-amatya.png",
+    "content": [
+      { "type": "paragraph", "text": "On October 11, 2025, Developers Community Pokhara hosted a dual-session meetup at Pokhara Nomad Coworking. Powered by Apify, the event brought together developers eager to learn about software development practices and the cutting-edge world of web scraping and AI agents." },
+      { "type": "heading", "text": "Session 1: Software Development" },
+      { "type": "paragraph", "text": "Prajwol Amatya, Software Developer at Jankari Tech, kicked off the afternoon with an insightful session on software development practices. The talk covered practical approaches to building reliable software, drawing from real-world experience at one of Pokhara's growing tech companies." },
+      { "type": "heading", "text": "Session 2: Web Scraping & AI Agents" },
+      { "type": "paragraph", "text": "Manoj Karki, an expert in web scraping and AI agent engineering, followed with a deep dive into building intelligent automation tools. The session explored how modern developers can leverage web scraping techniques combined with AI agents to build powerful data extraction and automation pipelines." },
+      { "type": "paragraph", "text": "Both sessions were well-received, with attendees asking thoughtful questions and engaging in post-talk discussions. We thank Apify for supporting this event and Pokhara Nomad Coworking for hosting us." }
+    ]
+  },
+  "inaugural-meetup": {
+    "title": "Our First Meetup: Open Source and Building Community",
+    "description": "Our inaugural meetup at Pokhara Coworking Space featured talks on OwnCloud and open source - and it was just the beginning.",
+    "author": "Aaditya Verma",
+    "date": "June 3, 2023",
+    "category": "Events",
+    "tags": ["meetup", "inaugural", "first-event", "open-source"],
+    "coverImage": "../images/events/posters/2023-open-source-bikram-arthur.png",
+    "content": [
+      { "type": "paragraph", "text": "On June 3, 2023, Developers Community Pokhara held its very first meetup at Pokhara Coworking Space. Starting at 4:00 PM, the session brought together developers who were hungry for a local tech community." },
+      { "type": "heading", "text": "The Talks" },
+      { "type": "paragraph", "text": "The evening featured two speakers. Bikram (bikram.io) presented on 'OwnCloud Infinite Scale - the modern file sync & share platform,' showcasing self-hosted alternatives for data management. Arthur Neumann followed with a talk on 'Open Source: Democratizing Technology for All,' inspiring attendees to contribute to open source projects." },
+      { "type": "heading", "text": "The Beginning" },
+      { "type": "paragraph", "text": "That first meetup proved there was a real hunger for a developer community in Pokhara. The energy and enthusiasm from that evening carried us forward, shaping everything we have done since. Within months, we were hosting regular events on topics ranging from hardware engineering to DevOps." },
+      { "type": "paragraph", "text": "Thank you to everyone who showed up and believed in the idea from day one. What started as two talks at a coworking space has grown into Pokhara's premier developer community." }
+    ]
+  },
+  "welcome-community": {
+    "title": "Welcome to Developers Community Pokhara",
+    "description": "Introducing Developers Community Pokhara - a community for software developers and tech professionals in Pokhara, Nepal.",
+    "author": "Aaditya Verma",
+    "date": "June 3, 2023",
+    "category": "Community",
+    "tags": ["announcement", "community", "welcome"],
+    "coverImage": "../images/events/posters/2023-open-source-bikram-arthur.png",
+    "content": [
+      { "type": "paragraph", "text": "Welcome to Developers Community Pokhara - a new community built for software developers, engineers, and tech professionals in Pokhara, Nepal. Our mission is simple: to create a space where developers can learn, share, and grow together." },
+      { "type": "heading", "text": "Why Pokhara?" },
+      { "type": "paragraph", "text": "Pokhara has a growing tech scene with talented developers working on everything from freelance projects to startups and remote roles for international companies. Yet there was no dedicated space for these developers to connect, collaborate, and learn from one another. We started this community to fill that gap." },
+      { "type": "heading", "text": "What to Expect" },
+      { "type": "paragraph", "text": "We will be organizing regular meetups with talks from local and visiting speakers, hands-on workshops on the latest technologies, and networking events to help you build meaningful professional relationships. Our first meetup features talks on OwnCloud and open source at Pokhara Coworking Space." },
+      { "type": "paragraph", "text": "Whether you are a seasoned engineer or just starting your coding journey, there is a place for you here. Follow us on social media and join our events to be part of Pokhara's developer community from the very beginning." }
+    ]
+  },
+  "incubator-partnership": {
+    "title": "Partnership with National Innovation Centre",
+    "description": "We partnered with the National Innovation Centre in Simpani, Pokhara to bring more resources and a regular venue to our community.",
+    "author": "Aaditya Verma",
+    "date": "August 6, 2023",
+    "category": "Partnerships",
+    "tags": ["partnership", "innovation-centre", "pokhara", "venue"],
+    "coverImage": "../images/events/nic-venue-01.jpg",
+    "content": [
+      { "type": "paragraph", "text": "We are excited to announce our partnership with the National Innovation Centre (NIC) in Simpani, Pokhara. This collaboration marks an important step forward in our mission to support the developer ecosystem in Pokhara." },
+      { "type": "heading", "text": "What This Means" },
+      { "type": "paragraph", "text": "Through this partnership, the National Innovation Centre provides us with access to their ICT Lab and event space at Pokhara-1, Simpani, near Ward No. 1 Office. The NIC also offers IT Innovation & Certification programs, an Electronic Medical Record (EMR) Lab, and an Electronics Lab - resources that complement our community's learning goals." },
+      { "type": "paragraph", "text": "The National Innovation Centre has been a driving force for innovation in Pokhara, supporting technology education and entrepreneurship. Their mission aligns closely with ours, and we have already hosted several successful events at their venue, including sessions on self-hosted SaaS alternatives and agile project management." },
+      { "type": "heading", "text": "Looking Forward" },
+      { "type": "paragraph", "text": "With the NIC as our regular venue, we can host events more frequently and at a larger scale. We are planning a series of workshops, hackathons, and speaker sessions that will leverage the NIC's resources to deliver even more value to our community members. Stay tuned for updates." }
+    ]
+  }
+}

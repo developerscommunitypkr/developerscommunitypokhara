@@ -1,0 +1,486 @@
+{
+  "stock-market-vc-2026": {
+    "title": "Stock Market & Venture Capital \u2013 Special Session",
+    "date": "July 4, 2026 \u00b7 7:30 AM",
+    "year": "2026",
+    "coverImage": "",
+    "venue": "La Grande International College, Pokhara",
+    "speaker": "Sagar Karki",
+    "speakerRole": "Stock Market & VC Expert",
+    "category": "Special Session",
+    "tags": ["stock-market", "venture-capital", "finance", "investing"],
+    "registerUrl": "https://luma.com/5nzn4na1",
+    "content": [
+      { "type": "paragraph", "text": "Join us for a special session on stock market investing and venture capital insights tailored for developers and tech professionals. This session features Sagar Karki sharing practical knowledge about navigating financial markets and understanding venture capital in the context of Nepal's growing tech ecosystem." },
+      { "type": "heading", "text": "What to Expect" },
+      { "type": "paragraph", "text": "Whether you are a developer looking to invest your earnings wisely or an aspiring entrepreneur seeking venture capital, this session will cover fundamental concepts, practical strategies, and real-world insights to help you make informed financial decisions." },
+      { "type": "heading", "text": "Registration" },
+      { "type": "paragraph", "text": "This is a free event with limited seats. Register on Luma to secure your spot. Doors open at 7:30 AM." }
+    ]
+  },
+  "meetup-june-2026": {
+    "title": "Developers Meetup Pokhara \u2013 June Edition",
+    "date": "June 6, 2026",
+    "year": "2026",
+    "coverImage": "../images/events/meetup-21-group.jpg",
+    "venue": "Jyaba Tech Office, Pokhara",
+    "speaker": "Amrit Ghimire",
+    "speakerRole": "Software Engineer at Datachain.ai",
+    "category": "Meetup",
+    "tags": ["ai", "claude-code", "developer-tools", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Our June 2026 meetup featured a session on 'Navigating Claude Code Through Skills' by Amrit Ghimire, Software Engineer at Datachain.ai. This was a practical, hands-on look at making the most of modern AI coding tools." },
+      { "type": "heading", "text": "Session Overview" },
+      { "type": "paragraph", "text": "Amrit walked the community through practical approaches to using Claude Code effectively, focusing on skill-based prompting and real-world coding workflows. Attendees learned techniques for leveraging AI assistants to boost productivity without losing control over code quality." },
+      { "type": "heading", "text": "Key Takeaways" },
+      { "type": "paragraph", "text": "The session covered best practices for AI-assisted development, including how to structure prompts for complex coding tasks, when to rely on AI suggestions versus writing code manually, and how to maintain code quality while benefiting from AI tooling." },
+      { "type": "paragraph", "text": "We thank Amrit Ghimire for sharing his expertise and Jyaba Tech Office for hosting us." }
+    ]
+  },
+  "meetup-may-2026": {
+    "title": "Developers Meetup Pokhara \u2013 May Edition",
+    "date": "May 9, 2026",
+    "year": "2026",
+    "coverImage": "../images/events/fewa-lake-pokhara.jpg",
+    "venue": "Jyaba Tech Office, Pokhara",
+    "speaker": "Ravi Bastola",
+    "speakerRole": "Industry Professional",
+    "category": "Meetup",
+    "tags": ["productivity", "developer-experience", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Our May 2026 meetup focused on 'What Actually Slows Developers Down', with Ravi Bastola providing valuable insights into common developer challenges, productivity barriers, and practical industry experiences." },
+      { "type": "heading", "text": "The Discussion" },
+      { "type": "paragraph", "text": "Ravi drew from real-world experience to identify the most common productivity killers for developers, from unclear requirements and context-switching to technical debt and poor communication. The session provided actionable strategies that attendees could implement immediately." },
+      { "type": "paragraph", "text": "The interactive format led to engaging discussions among attendees who shared their own experiences and solutions. Many developers left with a fresh perspective on how to optimize their daily workflows." }
+    ]
+  },
+  "meetup-april-2026": {
+    "title": "Developers Meetup Pokhara \u2013 April Edition",
+    "date": "April 11, 2026",
+    "year": "2026",
+    "coverImage": "../images/events/event-sep-2025-2.jpg",
+    "venue": "Jyaba, Pokhara",
+    "speaker": "Shankar Karki",
+    "speakerRole": "Senior Research Engineer at Hitachi Energy",
+    "category": "Meetup",
+    "tags": ["machine-learning", "optimization", "modeling", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Our April 2026 session featured Shankar Karki, Senior Research Engineer at Hitachi Energy, presenting on 'How to Build Models That Find the Best \u2013 Intro to LP/MLP Modeling'." },
+      { "type": "heading", "text": "Session Highlights" },
+      { "type": "paragraph", "text": "Shankar introduced attendees to the fundamentals of Linear Programming (LP) and Mixed-Integer Linear Programming (MLP) modeling. The session covered how these mathematical optimization techniques are used in real-world applications, from energy systems to logistics and resource allocation." },
+      { "type": "paragraph", "text": "Attendees gained a solid foundation in optimization modeling and learned how these powerful techniques apply to software engineering problems, from scheduling algorithms to resource management." }
+    ]
+  },
+  "meetup-march-2026": {
+    "title": "Developers Meetup Pokhara \u2013 March Edition",
+    "date": "March 2026",
+    "year": "2026",
+    "coverImage": "../images/events/meetup-22-group.jpg",
+    "venue": "National Innovation Center Nepal, Pokhara",
+    "speaker": "Bibek Acharya",
+    "speakerRole": "Founder/CEO of Nepa Tech Pal Pvt Ltd",
+    "category": "Meetup",
+    "tags": ["entrepreneurship", "product", "monetization", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Our March 2026 session explored 'From Code to Company: How Developers Can Build and Monetize Global Products', presented by Bibek Acharya, Founder and CEO of Nepa Tech Pal Pvt Ltd." },
+      { "type": "heading", "text": "Building Products That Scale" },
+      { "type": "paragraph", "text": "Bibek shared his journey from software developer to entrepreneur, covering the essential steps of building products that reach a global audience. The session addressed product-market fit, monetization strategies, and the mindset shift needed to transition from developer to founder." },
+      { "type": "paragraph", "text": "The session was held at the National Innovation Center Nepal and inspired many attendees to think beyond their day jobs about the products they could build and bring to market." }
+    ]
+  },
+  "meetup-january-2026": {
+    "title": "Developers Community Meetup \u2013 January Edition",
+    "date": "January 10, 2026",
+    "year": "2026",
+    "coverImage": "../images/events/meetup-21-group.jpg",
+    "venue": "Pokhara",
+    "speaker": "Sangam Giri",
+    "speakerRole": "Software Engineer",
+    "category": "Meetup",
+    "tags": ["community", "nation-building", "technology", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Our January 2026 meetup focused on how technology professionals can play a meaningful role in building a stable and resilient nation through their skills, mindset, and initiatives." },
+      { "type": "heading", "text": "Technology for Nation Building" },
+      { "type": "paragraph", "text": "Featuring Sangam Giri, Software Engineer, the session explored the intersection of technology and nation-building in the Nepali context. The discussion covered how developers can contribute to local governance, healthcare, education, and economic development through technology solutions." },
+      { "type": "paragraph", "text": "The session sparked meaningful conversations about the responsibility and opportunity that tech professionals have in shaping Nepal's future." }
+    ]
+  },
+  "web-scraping-apify-workshop-2025": {
+    "title": "Build Web Scraping Tools on Apify \u2013 2-Day Workshop",
+    "date": "December 13\u201314, 2025",
+    "year": "2025",
+    "coverImage": "../images/event-dec-2025.jpg",
+    "venue": "Infomax College of IT & Management, Ranipauwa, Pokhara",
+    "speaker": "Apify Team",
+    "speakerRole": "Supported by APIFY",
+    "category": "Workshop",
+    "tags": ["web-scraping", "apify", "workshop", "automation"],
+    "content": [
+      { "type": "paragraph", "text": "A free hands-on 2-day workshop on building web-scraping tools using Apify and GetDataForMe automation. This workshop was held at Infomax College of IT & Management in Ranipauwa, Pokhara, and supported by APIFY." },
+      { "type": "heading", "text": "Workshop Overview" },
+      { "type": "paragraph", "text": "Participants learned how to build production-ready web scraping tools from scratch using the Apify platform. The workshop covered anti-bot bypass techniques, proxy rotation, concurrent architectures, and data pipeline design." },
+      { "type": "heading", "text": "Hands-On Projects" },
+      { "type": "paragraph", "text": "Attendees built real scrapers during the workshop, gaining practical experience with Scrapy, Playwright, and the Apify SDK. The 2-day format allowed for deep dives into each topic with plenty of time for Q&A and individual guidance." }
+    ]
+  },
+  "meetup-nutrogen-2025": {
+    "title": "Developers Meetup \u2013 Nutrogen Session",
+    "date": "November 2025",
+    "year": "2025",
+    "coverImage": "../images/events/posters/2025-11-bikram-parajuli.jpg",
+    "venue": "BlackTech Office, Pokhara",
+    "speaker": "Bikram Parajuli",
+    "speakerRole": "Senior Software Engineer at Nutrogen",
+    "category": "Meetup",
+    "tags": ["meetup", "software-engineering", "nutrogen"],
+    "content": [
+      { "type": "paragraph", "text": "Our November 2025 meetup featured Bikram Parajuli, Senior Software Engineer at Nutrogen. The session was powered by Apify and held at BlackTech Office in Pokhara." },
+      { "type": "heading", "text": "Session Details" },
+      { "type": "paragraph", "text": "Bikram shared insights from his experience as a senior software engineer, covering engineering practices, team collaboration, and technical leadership. The session provided valuable perspective for developers at all stages of their careers." },
+      { "type": "paragraph", "text": "We thank Nutrogen for supporting the community and BlackTech Office for hosting us." }
+    ]
+  },
+  "meetup-october-2025-session1": {
+    "title": "Developers Meetup Pokhara \u2013 October Edition (Session 1)",
+    "date": "October 11, 2025",
+    "year": "2025",
+    "coverImage": "../images/events/posters/2025-10-11-prajwol-amatya.png",
+    "venue": "Pokhara Nomad Coworking",
+    "speaker": "Prajwol Amatya",
+    "speakerRole": "Software Developer at Jankari Tech",
+    "category": "Meetup",
+    "tags": ["meetup", "software-development", "apify"],
+    "content": [
+      { "type": "paragraph", "text": "Session 1 of our October 2025 meetup featured Prajwol Amatya, Software Developer at Jankari Tech. Held at Pokhara Nomad Coworking and powered by Apify." },
+      { "type": "heading", "text": "Software Development Practices" },
+      { "type": "paragraph", "text": "Prajwol shared practical approaches to building reliable software, drawing from his experience at one of Pokhara's growing tech companies. The session covered development workflows, code quality practices, and lessons learned in a professional software development environment." }
+    ]
+  },
+  "meetup-october-2025-session2": {
+    "title": "Developers Meetup Pokhara \u2013 October Edition (Session 2)",
+    "date": "October 11, 2025",
+    "year": "2025",
+    "coverImage": "../images/events/posters/2025-10-11-manoj-karki.png",
+    "venue": "Pokhara Nomad Coworking",
+    "speaker": "Manoj Karki",
+    "speakerRole": "Expert in Web Scraping & AI Agent Engineer",
+    "category": "Meetup",
+    "tags": ["web-scraping", "ai-agents", "automation", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session 2 of our October 2025 meetup featured Manoj Karki, an expert in web scraping and AI agent engineering. Held at Pokhara Nomad Coworking and powered by Apify." },
+      { "type": "heading", "text": "Web Scraping & AI Agents" },
+      { "type": "paragraph", "text": "Manoj delivered a deep dive into building intelligent automation tools, exploring how modern developers can leverage web scraping techniques combined with AI agents to build powerful data extraction and automation pipelines." },
+      { "type": "paragraph", "text": "The session was well-received with attendees asking thoughtful questions about the practical applications of AI agents in web scraping workflows." }
+    ]
+  },
+  "september-meetup-2025": {
+    "title": "September Meetup \u2013 Developers Community Pokhara",
+    "date": "September 6, 2025",
+    "year": "2025",
+    "coverImage": "../images/event-sep-2025.jpg",
+    "venue": "Pokhara Event Center",
+    "speaker": "Eva Neumann, Nischal Poudel, Dilip Shrestha",
+    "speakerRole": "Multiple Speakers",
+    "category": "Meetup",
+    "tags": ["meetup", "data-extraction", "neural-networks", "apify"],
+    "content": [
+      { "type": "paragraph", "text": "Our September 2025 meetup at Pokhara Event Center featured three speakers and was supported by Apify and CSIT Association of Nepal." },
+      { "type": "heading", "text": "Session 1: Why Sitting Makes You or Breaks You" },
+      { "type": "paragraph", "text": "Eva Neumann opened the session with a talk on ergonomics and health for developers, exploring how physical habits impact productivity and long-term wellbeing in the tech industry." },
+      { "type": "heading", "text": "Session 2: Data Extraction" },
+      { "type": "paragraph", "text": "Nischal Poudel covered data extraction techniques, sharing practical methods and tools for gathering and processing data at scale." },
+      { "type": "heading", "text": "Session 3: How Neurons Learn to See Patterns" },
+      { "type": "paragraph", "text": "Dilip Shrestha concluded with an introduction to neural networks and pattern recognition, making complex machine learning concepts accessible to developers of all backgrounds." }
+    ]
+  },
+  "meetup-24-2025": {
+    "title": "24th Developers Meet Pokhara",
+    "date": "May 3, 2025",
+    "year": "2025",
+    "coverImage": "../images/events/meetup-22-group.jpg",
+    "venue": "Pokhara",
+    "speaker": "Hari Bahadur Pahari",
+    "speakerRole": "Tech Speaker",
+    "category": "Meetup",
+    "tags": ["meetup", "tech-industry", "shenzhen", "pokhara"],
+    "content": [
+      { "type": "paragraph", "text": "The 24th Developers Meet Pokhara featured speaker Hari Bahadur Pahari on 'Pokhara's IT Future: Lessons from Shenzhen' \u2013 an eye-opening discussion on Pokhara's tech landscape." },
+      { "type": "heading", "text": "Lessons from Shenzhen" },
+      { "type": "paragraph", "text": "Hari Bahadur Pahari drew parallels between Pokhara's emerging tech scene and Shenzhen's transformation from a fishing village to a global technology hub. The session explored practical lessons that Pokhara's developers and entrepreneurs can apply to accelerate local tech growth." },
+      { "type": "paragraph", "text": "The meetup brought together tech enthusiasts, students, and working professionals for an engaging discussion about how Pokhara can position itself as a tech hub." }
+    ]
+  },
+  "meetup-october-2024": {
+    "title": "Developers Meet Pokhara \u2013 October Edition",
+    "date": "October 5, 2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-10-05-meetup-sagar.jpg",
+    "venue": "Browndesk Co-working, Zero KM, Pokhara",
+    "speaker": "Sagar Gurung",
+    "speakerRole": "Speaker",
+    "category": "Meetup",
+    "tags": ["meetup", "technology", "community"],
+    "content": [
+      { "type": "paragraph", "text": "Our October 2024 meetup featured speaker Sagar Gurung. The session ran from 2:00 PM to 4:00 PM at Browndesk Co-working in Zero KM, Pokhara." },
+      { "type": "paragraph", "text": "Hosted by Developers Community Pokhara and National Innovation Centre, the event brought together local developers for an engaging session on technology and community building." }
+    ]
+  },
+  "customer-is-king-2024": {
+    "title": "Customer is King! \u2013 Artur Neumann",
+    "date": "2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-artur-neumann-customer-king.jpg",
+    "venue": "National Innovation Centre, Simpani, Pokhara",
+    "speaker": "Artur Neumann",
+    "speakerRole": "Founding Partner / CTO at JankariTech",
+    "category": "Meetup",
+    "tags": ["freelancing", "cultural-differences", "client-relations"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Artur Neumann, Founding Partner and CTO at JankariTech. The topic covered cultural differences between Nepali freelancers/workers and western customers." },
+      { "type": "heading", "text": "Cross-Cultural Freelancing" },
+      { "type": "paragraph", "text": "Artur shared valuable insights from his experience working across cultures, highlighting the communication styles, expectations, and work practices that differ between Nepali tech workers and their western clients. The session was particularly valuable for freelancers and anyone working with international clients." }
+    ]
+  },
+  "cybersecurity-2024": {
+    "title": "Bits and Bytes of Cybersecurity",
+    "date": "September 7, 2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-09-07-cybersecurity-prasiddha.jpg",
+    "venue": "National Innovation Centre, Simpani, Bagar, Pokhara",
+    "speaker": "Prasiddha Bhusal",
+    "speakerRole": "Cybersecurity Researcher & Bug Bounty Hunter",
+    "category": "Meetup",
+    "tags": ["cybersecurity", "bug-bounty", "infosec", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Prasiddha Bhusal, Cybersecurity Researcher and Bug Bounty Hunter. A deep dive into cybersecurity fundamentals, held from 2:00 PM to 4:00 PM at National Innovation Centre, Simpani, Bagar, Pokhara." },
+      { "type": "heading", "text": "Cybersecurity Fundamentals" },
+      { "type": "paragraph", "text": "Prasiddha covered essential cybersecurity concepts including threat modeling, common vulnerability classes, and bug bounty methodologies. The session provided practical knowledge that developers can apply to write more secure code and protect their applications." },
+      { "type": "paragraph", "text": "The interactive session included live demonstrations and Q&A, making complex security topics accessible to developers of all experience levels." }
+    ]
+  },
+  "tech-talent-2024": {
+    "title": "Attracting and Retaining Tech Talent",
+    "date": "July 6, 2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-07-06-tech-talent-diksha.jpg",
+    "venue": "National Innovation Centre, Simpani, Bagar, Pokhara",
+    "speaker": "Diksha Bhandari",
+    "speakerRole": "Operations Lead and HR Executive at Akidev Corporation",
+    "category": "Meetup",
+    "tags": ["hr", "talent", "hiring", "management"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Diksha Bhandari, Operations Lead and HR Executive at Akidev Corporation. The session covered strategies for building a sustainable workforce, held at 11:00 AM at National Innovation Centre, Simpani, Bagar, Pokhara." },
+      { "type": "heading", "text": "Building Your Team" },
+      { "type": "paragraph", "text": "Diksha shared practical strategies for attracting top tech talent in Nepal's competitive market, covering employer branding, interview processes, retention strategies, and creating a positive work culture that keeps developers engaged and growing." }
+    ]
+  },
+  "product-development-2024": {
+    "title": "Embracing a User-Centric Approach in Product Development",
+    "date": "June 1, 2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-06-01-product-eeda-rijal.png",
+    "venue": "Pokhara",
+    "speaker": "Eeda Rijal",
+    "speakerRole": "Product Management Consultant",
+    "category": "Meetup",
+    "tags": ["product-management", "user-centric", "design-thinking"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Eeda Rijal, Product Management Consultant. The session emphasized the vital role of focusing on users in product development, held at 2:00 PM and hosted by Developers Community Pokhara." },
+      { "type": "heading", "text": "User-Centric Design" },
+      { "type": "paragraph", "text": "Eeda covered the fundamentals of user-centric product development, including user research methods, persona development, and iterative design processes. The session highlighted how putting users at the center of product decisions leads to better outcomes and more successful products." }
+    ]
+  },
+  "design-session-2024": {
+    "title": "Developers Meet \u2013 Design Session",
+    "date": "May 4, 2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-05-04-design-aagrambha.jpg",
+    "venue": "Simpani, Bagar, near Ward No. 1 Office, Pokhara",
+    "speaker": "Design Lead from Aagrambha IT & Research Center",
+    "speakerRole": "Design Lead at Aagrambha IT & Research Center",
+    "category": "Meetup",
+    "tags": ["design", "ui-ux", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Featuring a Design Lead from Aagrambha IT & Research Center, this session at 2:00 PM was hosted by Developers Community and National Innovation Centre at Simpani, Bagar, near Ward No. 1 Office, Pokhara." },
+      { "type": "heading", "text": "Design for Developers" },
+      { "type": "paragraph", "text": "The session explored design principles and practices that every developer should know, bridging the gap between design and development. Topics included UI/UX fundamentals, design systems, and effective collaboration between designers and developers." }
+    ]
+  },
+  "peace-for-people-2024": {
+    "title": "Peace for People & Self Knowledge",
+    "date": "2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-prem-rawat-peace.jpg",
+    "venue": "National Innovation Centre, Simpani, Bagar, Pokhara",
+    "speaker": "Prem Rawat & Team",
+    "speakerRole": "Speaker",
+    "category": "Special Session",
+    "tags": ["peace", "self-knowledge", "personal-development"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Prem Rawat and Team. Held at National Innovation Centre, Simpani, Bagar, Near Ward No. 1 Office, Pokhara. Hosted by Developers Community Pokhara." },
+      { "type": "heading", "text": "Inner Peace and Professional Growth" },
+      { "type": "paragraph", "text": "This special session explored the connection between personal peace, self-knowledge, and professional growth. The session offered a different perspective on the developer experience, emphasizing the importance of inner clarity and purpose in building meaningful technology." }
+    ]
+  },
+  "blockchain-2024": {
+    "title": "Blockchain 101",
+    "date": "2024",
+    "year": "2024",
+    "coverImage": "../images/events/posters/2024-blockchain-dipak-sharma.jpg",
+    "venue": "Pokhara",
+    "speaker": "Dipak Sharma",
+    "speakerRole": "Co-Founder & Instructor at Builders Academy",
+    "category": "Meetup",
+    "tags": ["blockchain", "web3", "cryptocurrency", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Dipak Sharma, Co-Founder and Instructor at Builders Academy. A deep dive into the world of blockchain technology, hosted by Developers Community Pokhara and National Innovation Centre." },
+      { "type": "heading", "text": "Understanding Blockchain" },
+      { "type": "paragraph", "text": "Dipak covered the fundamentals of blockchain technology, from distributed ledgers and consensus mechanisms to smart contracts and decentralized applications. The session provided a solid foundation for developers interested in web3 and blockchain development." }
+    ]
+  },
+  "computer-vision-2023": {
+    "title": "See Like a Machine \u2013 Computer Vision",
+    "date": "2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2024-computer-vision-sandesh.png",
+    "venue": "Pokhara",
+    "speaker": "Sandesh Pokhrel",
+    "speakerRole": "Research Assistant at NAAMII",
+    "category": "Meetup",
+    "tags": ["computer-vision", "ai", "machine-learning", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Sandesh Pokhrel, Research Assistant at NAAMII. Explores computer vision and how AI is taking over the field. Hosted by Developers Community in Pokhara." },
+      { "type": "heading", "text": "Introduction to Computer Vision" },
+      { "type": "paragraph", "text": "Sandesh introduced attendees to the fundamentals of computer vision, covering image processing, object detection, and deep learning approaches for visual understanding. The session explored real-world applications from medical imaging to autonomous vehicles." }
+    ]
+  },
+  "career-software-engineering-2023": {
+    "title": "Career in Software Engineering: My Journey",
+    "date": "2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2024-career-aatish-sai.png",
+    "venue": "Pokhara",
+    "speaker": "Aatish Sai",
+    "speakerRole": "Engineering Manager at Genese Solution",
+    "category": "Meetup",
+    "tags": ["career", "software-engineering", "mentorship", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Aatish Sai, Engineering Manager at Genese Solution. Aatish shared his journey and experience so far as a Software Engineer. Hosted by Developers Community in Pokhara." },
+      { "type": "heading", "text": "Career Insights" },
+      { "type": "paragraph", "text": "Aatish shared practical career advice drawn from his journey through the software engineering industry, covering how to navigate career decisions, build technical skills, and grow into leadership roles. His experience at Genese Solution provided valuable perspective for developers at all career stages." }
+    ]
+  },
+  "data-pipelines-2023": {
+    "title": "Exploring Data Pipelines: Understanding How Big Data Works",
+    "date": "2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2024-data-pipelines-santosh.png",
+    "venue": "Pokhara",
+    "speaker": "Santosh Silwal",
+    "speakerRole": "Senior Data Engineer at FuseMachines",
+    "category": "Meetup",
+    "tags": ["data-engineering", "big-data", "pipelines", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Santosh Silwal, Senior Data Engineer at FuseMachines. Learn how data moves from sources to insights. Hosted by Developers Community in Pokhara." },
+      { "type": "heading", "text": "Data Pipeline Architecture" },
+      { "type": "paragraph", "text": "Santosh covered the fundamentals of data pipeline design, from data ingestion and transformation to storage and analytics. The session explored real-world architectures used in enterprise data systems and practical tools for building reliable pipelines." }
+    ]
+  },
+  "open-source-2023": {
+    "title": "Open Source: Democratizing Technology for All",
+    "date": "June 3 (Saturday), 2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2023-open-source-bikram-arthur.png",
+    "venue": "Pokhara Coworking Space",
+    "speaker": "Bikram & Arthur Neumann",
+    "speakerRole": "Open Source Advocates",
+    "category": "Meetup",
+    "tags": ["open-source", "owncloud", "community", "first-event"],
+    "content": [
+      { "type": "paragraph", "text": "Our very first meetup! Two speakers: Bikram (bikram.io) on 'OwnCloud Infinite Scale \u2013 the modern file sync & share platform' and Arthur Neumann on open source democratizing technology. Held at 4:00 PM at Pokhara Coworking Space." },
+      { "type": "heading", "text": "The Beginning" },
+      { "type": "paragraph", "text": "This inaugural event marked the official launch of Developers Community Pokhara. Bikram presented OwnCloud Infinite Scale as a privacy-respecting alternative to cloud storage services, while Arthur Neumann shared his passion for open source software and its potential to democratize technology access in Nepal and beyond." },
+      { "type": "paragraph", "text": "The event proved there was strong demand for a developer community in Pokhara, setting the stage for all the events that followed." }
+    ]
+  },
+  "devops-2023": {
+    "title": "Getting to Know DevOps",
+    "date": "October 7 (Saturday), 2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2023-10-07-devops-blacktech.png",
+    "venue": "BlackTech Office, Zero KM (towards Baglung Highway), Pokhara",
+    "speaker": "Community Session",
+    "speakerRole": "Community Organized",
+    "category": "Meetup",
+    "tags": ["devops", "ci-cd", "infrastructure", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "'Knowing the Fundamental Concepts Behind DevOps.' Session from 1:00 PM onwards at BlackTech Office, Zero KM (towards Baglung Highway), Pokhara." },
+      { "type": "heading", "text": "DevOps Fundamentals" },
+      { "type": "paragraph", "text": "This session introduced attendees to the core concepts of DevOps, including continuous integration, continuous deployment, infrastructure as code, and the cultural shift needed to bridge development and operations teams. Practical examples and toolchain recommendations were shared throughout the session." }
+    ]
+  },
+  "hardware-2023": {
+    "title": "\"Hardware\" \u2013 The South Pole of IT",
+    "date": "September 2 (Saturday), 2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2023-09-02-hardware-prashant-bhatta.png",
+    "venue": "Nepal ICT, Pokhara-1, Simpani, next to GaiGhat Park",
+    "speaker": "Prashant Bhatta",
+    "speakerRole": "Electronics Engineer & Hardware Design Enthusiast",
+    "category": "Meetup",
+    "tags": ["hardware", "electronics", "iot", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Prashant Bhatta, Electronics Engineer and Hardware Design Enthusiast. Hardware and electronics concepts for software engineers. Held at Nepal ICT, Pokhara-1, Simpani, next to GaiGhat Park. From 2:00 PM onwards." },
+      { "type": "heading", "text": "Bridging Software and Hardware" },
+      { "type": "paragraph", "text": "Prashant introduced software developers to the world of hardware, covering electronics fundamentals, embedded systems, and IoT concepts. The session helped software engineers understand how their code interacts with physical hardware, opening up new possibilities for cross-disciplinary projects." }
+    ]
+  },
+  "self-hosted-saas-2023": {
+    "title": "Self-Hosted Alternatives to Major SaaS",
+    "date": "August 6, 2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2023-08-06-self-hosted-saas-krishna-dhakal.jpg",
+    "venue": "ICT Lab, Bagar, Pokhara",
+    "speaker": "Krishna Dhakal",
+    "speakerRole": "Freelance Software Developer",
+    "category": "Meetup",
+    "tags": ["self-hosted", "saas", "open-source", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Krishna Dhakal, Freelance Software Developer. Explore self-hosted alternatives to popular SaaS products. Held at 5:00 PM at ICT Lab, Bagar, Pokhara." },
+      { "type": "heading", "text": "Taking Control of Your Tools" },
+      { "type": "paragraph", "text": "Krishna presented a curated list of self-hosted alternatives to popular SaaS products, covering collaboration tools, office suites, project management, and more. The session emphasized data privacy, cost savings, and the satisfaction of running your own infrastructure." }
+    ]
+  },
+  "agile-scrum-2023": {
+    "title": "Agile Project Management with Scrum",
+    "date": "August 6, 2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2023-08-06-agile-scrum-abishkar.jpg",
+    "venue": "ICT Lab, Bagar, Pokhara",
+    "speaker": "Abishkar Bhattarai",
+    "speakerRole": "Co-Founder/CTO at Dakshya AI",
+    "category": "Meetup",
+    "tags": ["agile", "scrum", "project-management", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Abishkar Bhattarai, Co-Founder and CTO at Dakshya AI, with 12+ years of experience. Held at 5:00 PM at ICT Lab, Bagar, Pokhara." },
+      { "type": "heading", "text": "Scrum in Practice" },
+      { "type": "paragraph", "text": "Abishkar shared practical insights from over 12 years of experience implementing Agile and Scrum methodologies. The session covered sprint planning, daily standups, retrospectives, and common pitfalls to avoid. Real-world examples from his work at Dakshya AI made the concepts tangible and applicable." }
+    ]
+  },
+  "aws-cloud-2023": {
+    "title": "Getting Familiar with AWS Cloud",
+    "date": "2023",
+    "year": "2023",
+    "coverImage": "../images/events/posters/2024-aws-tara-gurung.png",
+    "venue": "Pokhara",
+    "speaker": "Tara Prasad Gurung",
+    "speakerRole": "DevOps Engineer at CloudHero",
+    "category": "Meetup",
+    "tags": ["aws", "cloud", "devops", "meetup"],
+    "content": [
+      { "type": "paragraph", "text": "Session by Tara Prasad Gurung, DevOps Engineer at CloudHero. 'Navigating the Cloud: A Beginner's Guide to Getting Familiar with AWS.' Hosted by Developers Community in Pokhara." },
+      { "type": "heading", "text": "AWS for Beginners" },
+      { "type": "paragraph", "text": "Tara provided a beginner-friendly introduction to Amazon Web Services, covering core services like EC2, S3, and RDS, as well as best practices for cost optimization and security. The session was designed for developers looking to expand their skills into cloud infrastructure." }
+    ]
+  }
+}
