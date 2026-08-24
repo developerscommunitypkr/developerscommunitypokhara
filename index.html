@@ -122,12 +122,12 @@
       <div class="hero__inner">
         <div class="hero__text-col">
           <div class="hero__text-inner">
-            <div style="display:flex;align-items:center;gap:0.5rem;margin-bottom:2rem">
+            <div style="display:flex;align-items:center;gap:0.5rem;margin-bottom:2rem" class="logo-text">
               <span class="td-logo__icon" style="width:32px;height:32px;display:flex">
                 <img src="images/developers community pokhara logo.png" alt="Developers Community Pokhara"
                   style="width:100%;height:100%;object-fit:contain" />
               </span>
-              <span style="font-weight:700;font-size:1.125rem;letter-spacing:-0.02em">
+              <span style="font-weight:700;font-size:1.125rem;letter-spacing:-0.02em;">
                 <span style="color:var(--text-primary)">Developers</span>
                 <span style="color:var(--sunset)">Community Pokhara</span>
               </span>
@@ -149,7 +149,7 @@
   </section>
 
   <!-- ===== UPCOMING EVENT ===== -->
-  <section class="section" style="padding:1.5rem 0;background:linear-gradient(135deg,var(--lake-dark),var(--lake))">
+  <!-- <section class="section" style="padding:1.5rem 0;background:linear-gradient(135deg,var(--lake-dark),var(--lake))">
     <div class="container">
       <div
         style="display:flex;flex-direction:column;gap:0.75rem;align-items:center;text-align:center;color:var(--white)">
@@ -165,7 +165,93 @@
           on Luma &rarr;</a>
       </div>
     </div>
+  </section> -->
+  <section class="events-section" id="events">
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="eyebrow">DEVELOPERS COMMUNITY POKHARA</span>
+        <h1 id="sectionTitle">Community Events</h1>
+        <p id="sectionDescription">
+          Learn, connect and grow with developers and technology enthusiasts in Pokhara.
+        </p>
+      </div>
+
+      <!--
+          ONE dynamic event section.
+          JavaScript automatically decides whether the selected event is
+          "Upcoming Event" or "Past Event" according to its date.
+        -->
+      <article class="event-card" id="eventCard">
+
+        <div class="event-info">
+          <div class="status-row">
+            <span class="event-status" id="eventStatus">UPCOMING EVENT</span>
+            <span class="event-number" id="eventNumber"></span>
+          </div>
+
+          <h2 id="eventTitle"></h2>
+          <p class="event-subtitle" id="eventSubtitle"></p>
+
+          <div class="event-details">
+            <div class="detail">
+              <span class="icon">📅</span>
+              <div>
+                <small>Date</small>
+                <strong id="eventDate"></strong>
+              </div>
+            </div>
+
+            <div class="detail">
+              <span class="icon">⏰</span>
+              <div>
+                <small>Time</small>
+                <strong id="eventTime"></strong>
+              </div>
+            </div>
+
+            <div class="detail">
+              <span class="icon">📍</span>
+              <div>
+                <small>Venue</small>
+                <strong id="eventVenue"></strong>
+              </div>
+            </div>
+
+            <div class="detail">
+              <span class="icon">🎤</span>
+              <div>
+                <small>Speaker</small>
+                <strong id="eventSpeaker"></strong>
+              </div>
+            </div>
+          </div>
+
+          <p class="event-description" id="eventDescription"></p>
+
+          <div class="event-actions">
+            <a id="eventButton" class="primary-btn" href="#" target="_blank" rel="noopener">
+              Register on Luma →
+            </a>
+            <button id="nextEventButton" class="secondary-btn" type="button">
+              View Other Event
+            </button>
+          </div>
+        </div>
+
+        <div class="poster-wrapper">
+          <div class="poster-label" id="posterLabel">EVENT POSTER</div>
+          <img id="eventPoster" src="event-poster.jpg" alt="Developers Community Pokhara event poster" />
+        </div>
+
+      </article>
+
+      <div class="event-navigation" id="eventNavigation"></div>
+
+    </div>
   </section>
+
+
 
   <!-- ===== STATS ===== -->
   <section class="section section--alt">
@@ -424,6 +510,7 @@
   </footer>
 
   <!-- Mobile menu toggle -->
+   <script src="js/script.js"></script>
   <script>
     document.querySelector('.td-header__hamburger')?.addEventListener('click', function () {
       const menu = document.querySelector('.td-header__mobile-menu');
