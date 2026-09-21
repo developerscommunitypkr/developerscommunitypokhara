@@ -844,8 +844,8 @@ a.td-logo:hover {
 /* --- Values / Impact Grid --- */
 .values-grid {
   display: grid;
-  gap: 1rem;
-  max-width: 48rem;
+  gap: 1.25rem;
+  max-width: 64rem;
   margin: 0 auto;
 }
 
@@ -858,6 +858,11 @@ a.td-logo:hover {
 @media (min-width: 1024px) {
   .values-grid {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .values-grid--2x2 {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 56rem;
   }
 }
 
