@@ -2927,8 +2927,40 @@ footer {
   box-shadow: 0 12px 40px rgba(14, 42, 115, 0.15);
 }
 
-.stats-photo-v2 .stats-grid {
-  grid-template-columns: repeat(2, 1fr);
+.stats-inline-v2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.stats-inline-v2__lead {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--crimson);
+  margin-bottom: 1rem;
+}
+
+.stats-inline-v2__item {
+  display: flex;
+  align-items: baseline;
+  gap: 1.25rem;
+  padding: 1.25rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.stats-inline-v2__number {
+  font-size: clamp(2.25rem, 4vw, 3rem);
+  font-weight: 800;
+  line-height: 1;
+  color: var(--lake);
+  min-width: 7rem;
+}
+
+.stats-inline-v2__label {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
 }
 
 @media (max-width: 768px) {
