@@ -223,8 +223,7 @@
         </a>
         <a class="event-card-v2" href="events/event_details.html?slug=meetup-june-2026">
           <div class="event-card-v2__media">
-            <img src="images/events/meetup-21-group.jpg" alt="Developers Meetup Pokhara – June Edition"
-              style="width:100%;height:100%;object-fit:cover" loading="lazy" />
+            <img src="images/events/meetup-21-group.jpg" alt="" loading="lazy" />
             <span class="event-card-v2__date">Jun 2026</span>
           </div>
           <div class="event-card-v2__body">
@@ -234,8 +233,7 @@
         </a>
         <a class="event-card-v2" href="events/event_details.html?slug=meetup-may-2026">
           <div class="event-card-v2__media">
-            <img src="images/events/fewa-lake-pokhara.jpg" alt="Developers Meetup Pokhara – May Edition"
-              style="width:100%;height:100%;object-fit:cover" loading="lazy" />
+            <img src="images/events/fewa-lake-pokhara.jpg" alt="" loading="lazy" />
             <span class="event-card-v2__date">May 2026</span>
           </div>
           <div class="event-card-v2__body">
@@ -488,26 +486,19 @@
     </div>
   </footer>
 
-  <!-- Mobile menu toggle -->
-   <script src="js/script.js"></script>
-  <script>
-    document.querySelector('.td-header__hamburger')?.addEventListener('click', function () {
-      const menu = document.querySelector('.td-header__mobile-menu');
-      const expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', !expanded);
-      menu.classList.toggle('td-header__mobile-menu--open');
-    });
-  </script>
+  <script src="js/script.js"></script>
 
-  <dialog id="speakerDialog" class="speaker-dialog">
-    <h3>Become a Speaker</h3>
-    <p>We're always looking for speakers for upcoming meetups — first-time speakers welcome. Share a project, a
-      lesson learned, or a deep dive into something you love.</p>
-    <div class="speaker-dialog__actions">
-      <a href="https://discord.gg/6EjtZraef" target="_blank" rel="noopener noreferrer"
-        class="btn-v2 btn-v2--crimson">Join our Discord</a>
-      <a href="talks.html" class="btn-v2 btn-v2--ghost">Speaker Info</a>
-      <button type="button" class="btn-v2 btn-v2--ghost" id="speakerDialogClose">Close</button>
+  <dialog id="speakerDialog" class="speaker-dialog" aria-labelledby="speakerDialogTitle">
+    <div class="speaker-dialog__inner">
+      <h3 id="speakerDialogTitle">Become a Speaker</h3>
+      <p>We're always looking for speakers for upcoming meetups — first-time speakers welcome. Share a project, a
+        lesson learned, or a deep dive into something you love.</p>
+      <div class="speaker-dialog__actions">
+        <a href="https://discord.gg/6EjtZraef" target="_blank" rel="noopener noreferrer"
+          class="btn-v2 btn-v2--crimson">Join our Discord</a>
+        <a href="talks.html" class="btn-v2 btn-v2--ghost">Speaker Info</a>
+        <button type="button" class="btn-v2 btn-v2--ghost" id="speakerDialogClose">Close</button>
+      </div>
     </div>
   </dialog>
   <script>
