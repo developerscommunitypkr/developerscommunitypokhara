@@ -298,6 +298,7 @@ function setupNextEventButton() {
 }
 
 function initialize() {
+  if (!eventCard) return; // pages without the featured event card (e.g. blog.html)
   if (!events.length) {
     eventTitle.textContent = "No events available";
     eventDescription.textContent = "Please add an event in script.js.";

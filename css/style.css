@@ -2918,6 +2918,10 @@ footer {
   margin: 0 auto;
 }
 
+.page-hero-v2 .text-sunset {
+  color: var(--crimson-light);
+}
+
 /* --- Stats with photo (about) --- */
 .stats-photo-v2 {
   display: grid;
