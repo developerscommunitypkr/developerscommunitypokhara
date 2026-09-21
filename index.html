@@ -114,68 +114,21 @@
     </nav>
   </header>
 
-  <!-- ===== HERO ===== -->
-  <section class="hero">
-    <div class="hero__bg"></div>
-    <div class="hero__glow"></div>
-    <div class="container hero__content">
-      <div class="hero__inner">
-        <div class="hero__text-col">
-          <div class="hero__text-inner">
-            <div style="display:flex;align-items:center;gap:0.5rem;margin-bottom:2rem" class="logo-text">
-              <span class="td-logo__icon" style="width:32px;height:32px;display:flex">
-                <img src="images/developers community pokhara logo.png" alt="Developers Community Pokhara"
-                  style="width:100%;height:100%;object-fit:contain" />
-              </span>
-              <span style="font-weight:700;font-size:1.125rem;letter-spacing:-0.02em;">
-                <span style="color:var(--text-primary)">Developers</span>
-                <span style="color:var(--sunset)">Community Pokhara</span>
-              </span>
-            </div>
-            <h1 class="hero__title">Pokhara's Developer<br>Community</h1>
-            <p class="hero__subtitle">A community for software developers, engineers, and tech professionals in Pokhara,
-              Nepal. Join free meetups, workshops, and events.</p>
-            <div class="hero__actions">
-              <a href="events.html" class="td-button td-button--primary td-button--md">Events</a>
-            </div>
-          </div>
-        </div>
-        <div class="hero__image-col">
-          <img src="images/dev_community_pokhara_apify_event.jpeg"
-            alt="Fewa Lake, Pokhara - Colorful boats on the water" loading="lazy" />
-        </div>
+  <section class="hero-v2">
+    <div class="container">
+      <a class="hero-v2__badge hero-v2__badge--link" href="#events">📣 Want to know about the next meetup? ↓</a>
+      <h1 class="hero-v2__title">Pokhara's Tech<br>Events Hub</h1>
+      <p class="hero-v2__subtitle">Meetups, talks and workshops from the lake city's developer community. Free and open
+        to everyone.</p>
+      <div class="hero-v2__actions">
+        <a href="events.html" class="btn-v2 btn-v2--crimson">Browse Events →</a>
+        <button type="button" class="btn-v2 btn-v2--outline" id="speakerDialogBtn">🎤 Looking for Speakers</button>
+        <a href="about.html" class="btn-v2 btn-v2--outline">About Us</a>
       </div>
     </div>
   </section>
-
-  <!-- ===== UPCOMING EVENT ===== -->
-  <!-- <section class="section" style="padding:1.5rem 0;background:linear-gradient(135deg,var(--lake-dark),var(--lake))">
+  <section class="events-section events-section--overlap" id="events">
     <div class="container">
-      <div
-        style="display:flex;flex-direction:column;gap:0.75rem;align-items:center;text-align:center;color:var(--white)">
-        <span
-          style="font-size:0.75rem;font-weight:600;text-transform:uppercase;letter-spacing:0.1em;opacity:0.85">Upcoming
-          Event</span>
-        <h3 style="font-size:1.25rem;font-weight:700">Stock Market & Venture Capital &mdash; July 4, 2026</h3>
-        <p style="font-size:0.875rem;opacity:0.85;max-width:32rem">Featuring Sagar Karki at La Grande International
-          College, Pokhara. Limited seats available.</p>
-        <a href="https://luma.com/5nzn4na1" target="_blank" rel="noopener noreferrer"
-          class="td-button td-button--primary td-button--sm"
-          style="background:var(--white);color:var(--lake-dark);box-shadow:none;text-transform:none;letter-spacing:normal">Register
-          on Luma &rarr;</a>
-      </div>
-    </div>
-  </section> -->
-  <section class="events-section" id="events">
-    <div class="container">
-
-      <div class="section-heading">
-        <span class="eyebrow">DEVELOPERS COMMUNITY POKHARA</span>
-        <h1 id="sectionTitle">Community Events</h1>
-        <p id="sectionDescription">
-          Learn, connect and grow with developers and technology enthusiasts in Pokhara.
-        </p>
-      </div>
 
       <!--
           ONE dynamic event section.
@@ -241,7 +194,7 @@
 
         <div class="poster-wrapper">
           <div class="poster-label" id="posterLabel">EVENT POSTER</div>
-          <img id="eventPoster" src="event-poster.jpg" alt="Developers Community Pokhara event poster" />
+          <img id="eventPoster" src="images/event-poster.jpg" alt="Developers Community Pokhara event poster" />
         </div>
 
       </article>
@@ -251,104 +204,69 @@
     </div>
   </section>
 
-
-
-  <!-- ===== STATS ===== -->
-  <section class="section section--alt">
+  <!-- ===== RECENT EVENTS ===== -->
+  <section class="section">
     <div class="container">
-      <div class="stats-grid">
-        <div class="stat-card">
-          <div class="stat-card__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round">
-              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
-              <circle cx="9" cy="7" r="4"></circle>
-              <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
-              <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-            </svg>
-          </div>
-          <div class="stat-card__number">500+</div>
-          <div class="stat-card__label">Active Members</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-card__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round">
-              <path d="M8 2v4"></path>
-              <path d="M16 2v4"></path>
-              <rect x="3" y="4" width="18" height="18" rx="2"></rect>
-              <path d="M3 10h18"></path>
-            </svg>
-          </div>
-          <div class="stat-card__number">50+</div>
-          <div class="stat-card__label">Events Hosted</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-card__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round">
-              <circle cx="12" cy="12" r="10"></circle>
-              <polyline points="12 6 12 12 16 14"></polyline>
-            </svg>
-          </div>
-          <div class="stat-card__number">2024</div>
-          <div class="stat-card__label">Founded</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-card__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round">
-              <polyline points="20 6 9 17 4 12"></polyline>
-            </svg>
-          </div>
-          <div class="stat-card__number">100%</div>
-          <div class="stat-card__label">Free Events</div>
-        </div>
+      <div class="section__header">
+        <h2 class="section__title">Recent Events</h2>
+        <p class="section__subtitle">Catch up on what the community has been doing.</p>
       </div>
+      <div class="event-grid-v2">
+        <a class="event-card-v2" href="events/event_details.html?slug=stock-market-vc-2026">
+          <div class="event-card-v2__media">
+            <span class="event-card-v2__date">Jul 2026</span>
+          </div>
+          <div class="event-card-v2__body">
+            <div class="event-card-v2__title">Stock Market &amp; Venture Capital &ndash; Special Session</div>
+            <div class="event-card-v2__meta">La Grande International College, Pokhara</div>
+          </div>
+        </a>
+        <a class="event-card-v2" href="events/event_details.html?slug=meetup-june-2026">
+          <div class="event-card-v2__media">
+            <img src="images/events/meetup-21-group.jpg" alt="" loading="lazy" />
+            <span class="event-card-v2__date">Jun 2026</span>
+          </div>
+          <div class="event-card-v2__body">
+            <div class="event-card-v2__title">Developers Meetup Pokhara &ndash; June Edition</div>
+            <div class="event-card-v2__meta">Jyaba Tech Office, Pokhara</div>
+          </div>
+        </a>
+        <a class="event-card-v2" href="events/event_details.html?slug=meetup-may-2026">
+          <div class="event-card-v2__media">
+            <img src="images/events/fewa-lake-pokhara.jpg" alt="" loading="lazy" />
+            <span class="event-card-v2__date">May 2026</span>
+          </div>
+          <div class="event-card-v2__body">
+            <div class="event-card-v2__title">Developers Meetup Pokhara &ndash; May Edition</div>
+            <div class="event-card-v2__meta">Jyaba Tech Office</div>
+          </div>
+        </a>
+      </div>
+      <p style="text-align:center;margin-top:1.5rem;">
+        <a href="events.html" style="color:var(--lake);font-weight:600;">View all events &rarr;</a>
+      </p>
     </div>
   </section>
 
-  <!-- ===== VALUES ===== -->
+  <!-- ===== STATS ===== -->
   <section class="section">
     <div class="container">
-      <div class="section__header text-center">
-        <h2 class="section__title">Our Values</h2>
-        <p class="section__subtitle">What drives the Developers Community Pokhara community in Pokhara</p>
-      </div>
-      <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-card__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round">
-              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
-            </svg>
-          </div>
-          <h3 class="feature-card__title">Community First</h3>
-          <p class="feature-card__text">We believe in the power of community. Every event, workshop, and resource is
-            designed to bring Pokhara's developers together to learn, share, and grow.</p>
+      <div class="stats-v2">
+        <div class="stats-v2__item">
+          <div class="stats-v2__number">1500+</div>
+          <div class="stats-v2__label">Members</div>
         </div>
-        <div class="feature-card">
-          <div class="feature-card__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round">
-              <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-            </svg>
-          </div>
-          <h3 class="feature-card__title">Accessible to All</h3>
-          <p class="feature-card__text">All of our events and resources are completely free. We strive to remove
-            barriers to entry and make tech education accessible to everyone in Pokhara.</p>
+        <div class="stats-v2__item">
+          <div class="stats-v2__number">50+</div>
+          <div class="stats-v2__label">Events Hosted</div>
         </div>
-        <div class="feature-card">
-          <div class="feature-card__icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round">
-              <circle cx="12" cy="12" r="10"></circle>
-              <path d="M16.5 7.5C14.5 5.5 11 6 9.5 8.5 8 11 8.5 14.5 10 16c1.5 1.5 4 2.5 6 0s1.5-5.5 0-7.5z"></path>
-            </svg>
-          </div>
-          <h3 class="feature-card__title">Quality Content</h3>
-          <p class="feature-card__text">From hands-on workshops to expert talks, we curate high-quality content that
-            helps developers at every stage of their journey.</p>
+        <div class="stats-v2__item">
+          <div class="stats-v2__number">2024</div>
+          <div class="stats-v2__label">Founded</div>
+        </div>
+        <div class="stats-v2__item">
+          <div class="stats-v2__number">100%</div>
+          <div class="stats-v2__label">Free Events</div>
         </div>
       </div>
     </div>
@@ -432,6 +350,26 @@
     </div>
   </section>
 
+  <!-- ===== JOIN CTA ===== -->
+  <section class="section">
+    <div class="container">
+      <div class="cta-panel-v2">
+        <h2>Join the Pokhara tech community</h2>
+        <p>Come to a meetup, give a talk, or just hang out with people who build things.</p>
+        <div class="cta-panel-v2__actions">
+          <a href="https://github.com/dev-community-pokhara" target="_blank" rel="noopener noreferrer"
+            class="btn-v2 btn-v2--crimson">GitHub</a>
+          <a href="https://www.linkedin.com/company/developers-community-pokhara" target="_blank"
+            rel="noopener noreferrer" class="btn-v2 btn-v2--outline">LinkedIn</a>
+          <a href="https://www.facebook.com/groups/developerscommunityinpokhara" target="_blank"
+            rel="noopener noreferrer" class="btn-v2 btn-v2--outline">Facebook</a>
+          <a href="https://discord.gg/6EjtZraef" target="_blank" rel="noopener noreferrer"
+            class="btn-v2 btn-v2--outline">Discord</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- ===== FOOTER ===== -->
   <footer class="td-footer">
     <div class="td-footer__container">
@@ -477,7 +415,7 @@
         </div>
       </div>
       <div class="td-footer__bottom">
-        <p class="td-footer__copyright">&copy; 2026 Developers Community Pokhara. All rights reserved.</p>
+        <p class="td-footer__copyright">&copy; <span id="year">2026</span> Developers Community Pokhara. All rights reserved.</p>
         <div class="td-footer__socials">
           <a class="td-footer__social-link" href="https://github.com/dev-community-pokhara" target="_blank"
             rel="noopener noreferrer" aria-label="GitHub">
@@ -504,20 +442,39 @@
               </path>
             </svg>
           </a>
+          <a class="td-footer__social-link" href="https://discord.gg/6EjtZraef" target="_blank"
+            rel="noopener noreferrer" aria-label="Discord">
+            <svg viewBox="0 0 24 24" fill="currentColor">
+              <path
+                d="M20.317 4.37a19.79 19.79 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128c.126-.094.252-.192.372-.291a.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z">
+              </path>
+            </svg>
+          </a>
         </div>
       </div>
     </div>
   </footer>
 
-  <!-- Mobile menu toggle -->
-   <script src="js/script.js"></script>
+  <script src="js/script.js"></script>
+
+  <dialog id="speakerDialog" class="speaker-dialog" aria-labelledby="speakerDialogTitle">
+    <div class="speaker-dialog__inner">
+      <h3 id="speakerDialogTitle">Become a Speaker</h3>
+      <p>We're always looking for speakers for upcoming meetups — first-time speakers welcome. Share a project, a
+        lesson learned, or a deep dive into something you love.</p>
+      <div class="speaker-dialog__actions">
+        <a href="https://discord.gg/6EjtZraef" target="_blank" rel="noopener noreferrer"
+          class="btn-v2 btn-v2--crimson">Join our Discord</a>
+        <a href="talks.html" class="btn-v2 btn-v2--ghost">Speaker Info</a>
+        <button type="button" class="btn-v2 btn-v2--ghost" id="speakerDialogClose">Close</button>
+      </div>
+    </div>
+  </dialog>
   <script>
-    document.querySelector('.td-header__hamburger')?.addEventListener('click', function () {
-      const menu = document.querySelector('.td-header__mobile-menu');
-      const expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', !expanded);
-      menu.classList.toggle('td-header__mobile-menu--open');
-    });
+    const speakerDialog = document.getElementById('speakerDialog');
+    document.getElementById('speakerDialogBtn').addEventListener('click', () => speakerDialog.showModal());
+    document.getElementById('speakerDialogClose').addEventListener('click', () => speakerDialog.close());
+    speakerDialog.addEventListener('click', (e) => { if (e.target === speakerDialog) speakerDialog.close(); });
   </script>
 
 </body>
